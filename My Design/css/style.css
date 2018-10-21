@@ -1,0 +1,19 @@
+body { 
+   background-image: url("../Images/bg4.jpeg");
+   background-size: contain;
+   background-attachment: scroll;
+  
+   
+}
+ 
+
+#navlist li a:hover {
+    background-color:  #2196f3;
+    border-radius: 3px;
+}
+#p1{
+    font-size: 16px;
+    font-family: cursive;
+
+}
+
